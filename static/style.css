@@ -1,0 +1,13 @@
+ @font-face {  font-family: 'Meera';  src: url('Meera.woff');} 
+    body { font:12px/1.5 Verdana,sans-serif; background:#092e20; }
+    a {text-decoration: none;}
+    a:link, a:visited { color:#ffc757; }
+    a:hover { color:#ffe761; }  
+    #sidebar {  padding: 20px;   color:#fff;}
+    .mal {  font-family:'Meera', serif;} 
+    blockquote {  padding: 0 1em;
+        margin: 1em 0;
+        font-size: 140%;
+        color: #234f32;
+        border-left: 2px solid #94da3a;
+    }
