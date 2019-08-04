@@ -1,4 +1,4 @@
 
-## please visit **[quran](http://suhailvs.github.io/malayalam-quran/)**
+## please visit **[quran](http://suhailvs.github.io/quran/)**
 
 malayalam quran 
